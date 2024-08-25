@@ -20,7 +20,7 @@ CPU_SPEED = 6  # Increased speed for smarter CPU
 
 # Set up display
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption('Tennis Game')
+pygame.display.set_caption('Ping Pong Game')
 
 # Initialize fonts
 font = pygame.font.Font(None, FONT_SIZE)
